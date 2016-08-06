@@ -1,0 +1,218 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>FNS-Wien: Reichsbrücke Kaisermühlen</name>
+		<description><![CDATA[Streckenlänge ca 21km]]></description>
+		<Folder>
+			<name>Unbenannte Ebene</name>
+			<Placemark>
+				<name>Heldenplatz</name>
+				<description><![CDATA[Abfahrt pünktlich um 21:00 Uhr]]></description>
+				<styleUrl>#icon-61</styleUrl>
+				<Point>
+					<coordinates>16.363724,48.206276,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Route Kaisermühlen</name>
+				<description><![CDATA[ca. 21km]]></description>
+				<styleUrl>#line-009900-5</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>16.36363,48.20626,0.0 16.36196,48.20527,0.0 16.35973,48.20693,0.0 16.35963,48.20706,0.0 16.3615,48.21341,0.0 16.36162,48.21358,0.0 16.37008,48.21746,0.0 16.37055,48.21755,0.0 16.37092,48.21754,0.0 16.37134,48.21742,0.0 16.37217,48.216710000000006,0.0 16.37284,48.21598,0.0 16.37331,48.21536,0.0 16.37402,48.21423,0.0 16.37445,48.21376,0.0 16.37502,48.21323,0.0 16.37582,48.21264,0.0 16.3766,48.21224,0.0 16.3775,48.21192,0.0 16.37888,48.21163,0.0 16.37993,48.21147,0.0 16.38284,48.21136,0.0 16.3848207,48.2112061,0.0 16.385029,48.2112372,0.0 16.3862524,48.2117365,0.0 16.3868775,48.2124561,0.0 16.3872572,48.2126318,0.0 16.3879658,48.2128436,0.0 16.3890606,48.2129697,0.0 16.390134,48.212917,0.0 16.3912074,48.21276420000001,0.0 16.3916591,48.2137098,0.0 16.3916172,48.2139262,0.0 16.3911012,48.2162071,0.0 16.3911733,48.2164998,0.0 16.3914136,48.2167342,0.0 16.3916768,48.2168544,0.0 16.3918876,48.2168869,0.0 16.3920762,48.2168927,0.0 16.3923766,48.2168921,0.0 16.39273,48.21694,0.0 16.39318,48.21715,0.0 16.39348,48.21757,0.0 16.39358,48.21787,0.0 16.39396,48.218270000000004,0.0 16.39411,48.21864,0.0 16.39377,48.21927,0.0 16.39374,48.21954,0.0 16.39403,48.2198,0.0 16.39492,48.22025,0.0 16.39801,48.22195,0.0 16.40176,48.22394,0.0 16.4301,48.23923,0.0 16.44353,48.23368,0.0 16.44346,48.23295,0.0 16.44346,48.23211,0.0 16.44349,48.23007,0.0 16.44358,48.22943,0.0 16.44388,48.22844,0.0 16.44436,48.22732,0.0 16.44458,48.22654,0.0 16.44468,48.22581,0.0 16.44455,48.22498,0.0 16.44356,48.22089,0.0 16.44351,48.21967,0.0 16.44391,48.21842,0.0 16.4469,48.21777,0.0 16.4468,48.21735,0.0 16.44574,48.21547,0.0 16.44513,48.21494,0.0 16.44445,48.21453,0.0 16.44168,48.21355,0.0 16.43997,48.21291,0.0 16.43956,48.21283,0.0 16.43916,48.21296,0.0 16.43891,48.2131,0.0 16.43817,48.21316,0.0 16.43688,48.21387,0.0 16.43579,48.21456,0.0 16.42844,48.21984,0.0 16.42387,48.22327,0.0 16.42579,48.22446,0.0 16.424491,48.225405,0.0 16.424475,48.225509,0.0 16.423879,48.225977,0.0 16.423311,48.226342,0.0 16.423128,48.226374,0.0 16.42088,48.22804,0.0 16.42053,48.22837,0.0 16.41726,48.23075,0.0 16.41702,48.23103,0.0 16.41594,48.23176,0.0 16.41511,48.23135,0.0 16.39559,48.22078,0.0 16.39351,48.2197,0.0 16.39281,48.21947,0.0 16.392,48.21943,0.0 16.3915,48.21927,0.0 16.39101,48.21896000000001,0.0 16.390470000000004,48.21846,0.0 16.39033,48.21798,0.0 16.390080000000005,48.21775,0.0 16.38646,48.21593000000001,0.0 16.38336,48.21416,0.0 16.3829,48.21384,0.0 16.3828,48.21367,0.0 16.38306,48.21243,0.0 16.38285,48.21156,0.0 16.38285,48.21129,0.0 16.38221,48.20891000000001,0.0 16.37503,48.20183,0.0 16.3736,48.20148,0.0 16.37341,48.20149,0.0 16.36429,48.203540000000004,0.0 16.36202,48.20523,0.0 16.36368,48.20624,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>HP: Ringturm</name>
+				<styleUrl>#icon-62-nodesc</styleUrl>
+				<Point>
+					<coordinates>16.370165,48.217474,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HP: Urania</name>
+				<styleUrl>#icon-62-nodesc</styleUrl>
+				<Point>
+					<coordinates>16.382812,48.211364,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HP: Praterstern 1</name>
+				<styleUrl>#icon-62-nodesc</styleUrl>
+				<Point>
+					<coordinates>16.3915692,48.2168383,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HP: Mexikoplatz</name>
+				<styleUrl>#icon-62-nodesc</styleUrl>
+				<Point>
+					<coordinates>16.401901,48.224015,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HP: Schüttaustraße 1</name>
+				<styleUrl>#icon-62-nodesc</styleUrl>
+				<Point>
+					<coordinates>16.415972,48.23158,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HP: Erzherzog Karl Straße</name>
+				<styleUrl>#icon-62-nodesc</styleUrl>
+				<Point>
+					<coordinates>16.43,48.239195,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HP: Donaustadtstraße</name>
+				<styleUrl>#icon-62-nodesc</styleUrl>
+				<Point>
+					<coordinates>16.4434,48.233749,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HP: Nauhaufenstraße</name>
+				<styleUrl>#icon-62-nodesc</styleUrl>
+				<Point>
+					<coordinates>16.443894,48.218439,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HP: Am Kaisermühlendamm</name>
+				<styleUrl>#icon-62-nodesc</styleUrl>
+				<Point>
+					<coordinates>16.428369,48.219876,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HP: Schüttaustraße 2</name>
+				<styleUrl>#icon-62-nodesc</styleUrl>
+				<Point>
+					<coordinates>16.417115,48.230941,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HP: Praterstern 2</name>
+				<styleUrl>#icon-62-nodesc</styleUrl>
+				<Point>
+					<coordinates>16.3929,48.219476,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HP: Untere Donaustraße</name>
+				<styleUrl>#icon-62-nodesc</styleUrl>
+				<Point>
+					<coordinates>16.383029,48.212542,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HP: Kärntner Straße</name>
+				<styleUrl>#icon-62-nodesc</styleUrl>
+				<Point>
+					<coordinates>16.369833,48.202296,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-61-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/61-green-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-61-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/61-green-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-61'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-61-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-61-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-62-nodesc-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/62-green.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-62-nodesc-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/62-green.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-62-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-62-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-62-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-009900-5-normal'>
+			<LineStyle>
+				<color>ff009900</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-009900-5-highlight'>
+			<LineStyle>
+				<color>ff009900</color>
+				<width>8.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-009900-5'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-009900-5-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-009900-5-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
