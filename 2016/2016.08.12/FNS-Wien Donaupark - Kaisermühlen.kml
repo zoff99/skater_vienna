@@ -1,0 +1,234 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>FNS-Wien: Donaupark - Kaisermühlen</name>
+		<description><![CDATA[Streckenlänge rd. 25,4 km]]></description>
+		<Folder>
+			<name>FNS-Wien: Donaupark - Kaisermühlen</name>
+			<Placemark>
+				<name>Heldenplatz</name>
+				<styleUrl>#icon-61-nodesc</styleUrl>
+				<Point>
+					<coordinates>16.36375,48.2063,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Route</name>
+				<description><![CDATA[Streckenlänge rd. 25,4 km]]></description>
+				<styleUrl>#line-009900-5</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>16.36374,48.20625,0.0 16.36199,48.20528,0.0 16.35973,48.20695,0.0 16.35968,48.2071,0.0 16.35971,48.20731,0.0 16.36023,48.20873,0.0 16.36152,48.21338,0.0 16.36161,48.21355,0.0 16.36183,48.21368,0.0 16.36254,48.21394,0.0 16.36893,48.21688,0.0 16.37019,48.21749,0.0 16.37056,48.21756,0.0 16.37127,48.21746,0.0 16.37197,48.21693,0.0 16.37305,48.21575,0.0 16.37426,48.21392,0.0 16.37486,48.21327,0.0 16.37653,48.21227,0.0 16.37875,48.21162,0.0 16.37938,48.21149,0.0 16.3829,48.21136,0.0 16.38502,48.21116,0.0 16.38554,48.21146,0.0 16.3863,48.21175,0.0 16.38656,48.21203,0.0 16.38672,48.2123,0.0 16.38702,48.2125,0.0 16.3883,48.21291,0.0 16.38949,48.21299,0.0 16.39121,48.21277,0.0 16.39157,48.21365,0.0 16.3911,48.21627,0.0 16.39114,48.21656,0.0 16.39133,48.21678,0.0 16.39162,48.21691,0.0 16.39265,48.2169,0.0 16.3931,48.21707,0.0 16.39335,48.21739,0.0 16.39348,48.21786,0.0 16.3941,48.21796,0.0 16.4046,48.21786,0.0 16.40654,48.21788,0.0 16.41,48.21785,0.0 16.41097,48.21719,0.0 16.41247,48.21794,0.0 16.41409,48.2189,0.0 16.40735,48.22392,0.0 16.40721,48.22415,0.0 16.40477,48.22613,0.0 16.40338,48.22704,0.0 16.40105,48.22879,0.0 16.3962,48.23272,0.0 16.39445,48.23423,0.0 16.39232,48.2361,0.0 16.39207,48.23636,0.0 16.39205,48.23658,0.0 16.39229,48.23682,0.0 16.39261,48.237,0.0 16.39681,48.2391,0.0 16.3978,48.2395,0.0 16.39904,48.2398,0.0 16.39992,48.23994,0.0 16.40138,48.24009,0.0 16.40393,48.24043,0.0 16.40461,48.24061,0.0 16.40611,48.24128,0.0 16.40888,48.24195,0.0 16.4104092,48.2427049,0.0 16.4113868,48.2433381,0.0 16.4120935,48.2440816,0.0 16.4133921,48.2435322,0.0 16.4146683,48.2430029,0.0 16.4161061,48.2423313,0.0 16.4170499,48.2418811,0.0 16.4184452,48.241217,0.0 16.4192713,48.2408453,0.0 16.4196792,48.2406813,0.0 16.4201293,48.2404662,0.0 16.421052,48.239988,0.0 16.421503,48.239723,0.0 16.42293,48.23875,0.0 16.42407,48.23773,0.0 16.42522,48.2368,0.0 16.4301714,48.2393164,0.0 16.4435159,48.2337595,0.0 16.4435614,48.2304386,0.0 16.4436914,48.2291642,0.0 16.4444222,48.2272893,0.0 16.4446393,48.2254266,0.0 16.4441268,48.2224488,0.0 16.4440461,48.2184091,0.0 16.4470567,48.2178139,0.0 16.4461373,48.2159436,0.0 16.4453066,48.2151185,0.0 16.4443902,48.2144937,0.0 16.4409266,48.2132153,0.0 16.4398169,48.2128355,0.0 16.4396111,48.2128059,0.0 16.4393946,48.2128621,0.0 16.4390474,48.2130388,0.0 16.4388041,48.2131343,0.0 16.4385715,48.2131297,0.0 16.4382638,48.2131644,0.0 16.4381064,48.2132492,0.0 16.4366057,48.2140838,0.0 16.4239055,48.2233015,0.0 16.4257821,48.2244221,0.0 16.4158993,48.2317465,0.0 16.39406,48.21996,0.0 16.39341,48.21964,0.0 16.39285,48.21944,0.0 16.3922,48.21944,0.0 16.3917,48.21939,0.0 16.39083,48.21884,0.0 16.39048,48.21851,0.0 16.3903,48.21826,0.0 16.39028,48.21799,0.0 16.39048,48.21773,0.0 16.39119,48.21712,0.0 16.39114,48.21688,0.0 16.39093,48.21648,0.0 16.39094,48.21618,0.0 16.39139,48.21387,0.0 16.39129,48.21373,0.0 16.39095,48.2137,0.0 16.38952,48.21397,0.0 16.38864,48.21394,0.0 16.38752,48.21371,0.0 16.38648,48.21334,0.0 16.38531,48.21284,0.0 16.38316,48.21242,0.0 16.38257,48.20999,0.0 16.38223,48.20893,0.0 16.37974,48.20645,0.0 16.37879,48.20556,0.0 16.37549,48.20221,0.0 16.37485,48.20178,0.0 16.37356,48.20146,0.0 16.373,48.20156,0.0 16.36801,48.20275,0.0 16.36433,48.20356,0.0 16.36205,48.20521,0.0 16.36384,48.20621,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>HP: Ringturm</name>
+				<styleUrl>#icon-62-nodesc</styleUrl>
+				<Point>
+					<coordinates>16.370069,48.217446,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HP: Urania</name>
+				<styleUrl>#icon-62-nodesc</styleUrl>
+				<Point>
+					<coordinates>16.382686,48.211369,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HP: Praterstern I</name>
+				<styleUrl>#icon-62-nodesc</styleUrl>
+				<Point>
+					<coordinates>16.391632,48.216845,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HP: Handelskai</name>
+				<styleUrl>#icon-62-nodesc</styleUrl>
+				<Point>
+					<coordinates>16.413864,48.218747,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HP: Innstraße</name>
+				<styleUrl>#icon-62-nodesc</styleUrl>
+				<Point>
+					<coordinates>16.394411,48.2342,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HP: Arbeiterstrandbadstraße</name>
+				<styleUrl>#icon-62-nodesc</styleUrl>
+				<Point>
+					<coordinates>16.4118259,48.2440535,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HP: Wagramer Straße</name>
+				<styleUrl>#icon-62-nodesc</styleUrl>
+				<Point>
+					<coordinates>16.425033,48.236929,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HP: Donaustadtstraße
+</name>
+				<styleUrl>#icon-62-nodesc</styleUrl>
+				<Point>
+					<coordinates>16.4435159,48.2337595,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HP: Nauhaufenstraße
+</name>
+				<styleUrl>#icon-62-nodesc</styleUrl>
+				<Point>
+					<coordinates>16.4440461,48.2184091,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HP: Abfahrt Kaisermühlen
+</name>
+				<styleUrl>#icon-62-nodesc</styleUrl>
+				<Point>
+					<coordinates>16.4283961,48.2199585,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HP: Kaisermühlen
+</name>
+				<styleUrl>#icon-62-nodesc</styleUrl>
+				<Point>
+					<coordinates>16.4171791,48.2307049,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HP: Praterstern II</name>
+				<styleUrl>#icon-62-nodesc</styleUrl>
+				<Point>
+					<coordinates>16.393962,48.219898,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HP: Aspernbrücke</name>
+				<styleUrl>#icon-62-nodesc</styleUrl>
+				<Point>
+					<coordinates>16.383308,48.212442,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HP: Oper</name>
+				<styleUrl>#icon-62-nodesc</styleUrl>
+				<Point>
+					<coordinates>16.369831,48.20236,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-61-nodesc-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/61-green-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-61-nodesc-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/61-green-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-61-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-61-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-61-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-62-nodesc-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/62-green.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-62-nodesc-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/62-green.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-62-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-62-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-62-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-009900-5-normal'>
+			<LineStyle>
+				<color>ff009900</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-009900-5-highlight'>
+			<LineStyle>
+				<color>ff009900</color>
+				<width>8.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-009900-5'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-009900-5-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-009900-5-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
