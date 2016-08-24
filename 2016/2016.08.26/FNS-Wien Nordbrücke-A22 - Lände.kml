@@ -1,0 +1,257 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>FNS-Wien: Nordbrücke-A22 - Lände</name>
+		<description><![CDATA[Länge ca. 25,5km.]]></description>
+		<Folder>
+			<name>Unbenannte Ebene</name>
+			<Placemark>
+				<name>Heldenplatz</name>
+				<description><![CDATA[Abfahrt pünktlich um 21:00 Uhr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>16.3637499,48.2067224,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Route Nordbrücke</name>
+				<description><![CDATA[Länge ca. 26km.]]></description>
+				<styleUrl>#line-009900-5</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>16.363717000000005,48.206321,0.0 16.362011,48.205242,0.0 16.363707,48.20392600000001,0.0 16.36145,48.20261,0.0 16.35627,48.20649,0.0 16.35573,48.20697,0.0 16.35528,48.20789,0.0 16.35504,48.20863,0.0 16.35518,48.20935,0.0 16.35639,48.21450000000001,0.0 16.35913,48.214110000000005,0.0 16.35973,48.21421,0.0 16.36072,48.21413,0.0 16.36097,48.21416,0.0 16.36137,48.21431,0.0 16.36169,48.21448,0.0 16.36889,48.21786,0.0 16.37008,48.21865,0.0 16.37089,48.21942,0.0 16.3698,48.22016,0.0 16.36947,48.22069,0.0 16.36969,48.22208,0.0 16.36939,48.22367,0.0 16.36854,48.22534,0.0 16.36797,48.22628,0.0 16.36611,48.22769,0.0 16.36496,48.22871000000001,0.0 16.36428,48.22951,0.0 16.36269,48.23215,0.0 16.36228,48.2345,0.0 16.36231,48.234950000000005,0.0 16.36235,48.2354,0.0 16.36306,48.23728,0.0 16.3643,48.23957,0.0 16.36553,48.24147,0.0 16.36638,48.24256,0.0 16.36858,48.24507,0.0 16.36978,48.24631,0.0 16.3713,48.24805,0.0 16.37281,48.25003,0.0 16.37314,48.25112,0.0 16.37339,48.25172,0.0 16.37396,48.2523,0.0 16.37438,48.2526,0.0 16.37484,48.25283,0.0 16.38945,48.25875,0.0 16.39197,48.25972,0.0 16.39299,48.26018,0.0 16.39376,48.26076,0.0 16.39467,48.26197,0.0 16.39557,48.26371,0.0 16.39694,48.26681,0.0 16.39822,48.26998,0.0 16.39921,48.27262,0.0 16.39967,48.27291,0.0 16.40014,48.27291,0.0 16.40468,48.2718,0.0 16.40551,48.27154,0.0 16.40679,48.27129,0.0 16.41614,48.27032,0.0 16.41741,48.27133,0.0 16.41831,48.27133,0.0 16.41917,48.27125,0.0 16.41999,48.27111,0.0 16.42063,48.27092,0.0 16.428133,48.266991,0.0 16.42384,48.26335,0.0 16.42359,48.26274,0.0 16.42361,48.26218,0.0 16.40498,48.25779,0.0 16.40427,48.2575,0.0 16.39926,48.25994,0.0 16.39905,48.25999000000001,0.0 16.39889,48.25994,0.0 16.397770000000005,48.25798,0.0 16.39718,48.25714,0.0 16.39604,48.25593,0.0 16.39406,48.25399,0.0 16.39347,48.25328,0.0 16.39197,48.25085000000001,0.0 16.39176,48.25064,0.0 16.39156,48.25051,0.0 16.3818,48.24609,0.0 16.37995,48.24493,0.0 16.374511,48.242478,0.0 16.374135,48.242471,0.0 16.373958,48.242542,0.0 16.373711,48.242574000000005,0.0 16.373298,48.24256,0.0 16.37296,48.242564,0.0 16.372585,48.242628,0.0 16.368009,48.244454,0.0 16.366872,48.244918,0.0 16.365895,48.243682,0.0 16.365434,48.243067,0.0 16.365391,48.24276,0.0 16.36405,48.241067,0.0 16.361904,48.237594,0.0 16.361067,48.235936,0.0 16.360703,48.235264,0.0 16.360445,48.23405,0.0 16.360745,48.232449,0.0 16.36229,48.22944700000001,0.0 16.362634,48.228818,0.0 16.363192,48.228161,0.0 16.364694,48.226946,0.0 16.365552,48.226359,0.0 16.366518,48.225516,0.0 16.36702,48.22465,0.0 16.3672,48.22208,0.0 16.36737,48.22102,0.0 16.368,48.21931000000001,0.0 16.36801,48.21939,0.0 16.36799,48.21923,0.0 16.36083,48.21593000000001,0.0 16.36047,48.21569,0.0 16.35928,48.21447,0.0 16.35923,48.21429,0.0 16.3578,48.21445,0.0 16.35631,48.21469,0.0 16.35508,48.20946,0.0 16.35493,48.20861,0.0 16.35519,48.2078,0.0 16.35553,48.20703,0.0 16.3557,48.206790000000005,0.0 16.35631,48.20621,0.0 16.35796,48.20507,0.0 16.361400000000003,48.20248,0.0 16.363846,48.203969,0.0 16.362087,48.205234,0.0 16.36375,48.20628,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>HP: Universitätsstrasse</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>16.356411,48.214466,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HP: vor Franz-Josephs-Kai</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>16.3696408,48.2186597,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HP: Friedensbrücke</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>16.3665824,48.2278589,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HP: A22-Überfahrt</name>
+				<styleUrl>#icon-62-nodesc</styleUrl>
+				<Point>
+					<coordinates>16.386377000000003,48.2575,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HP: Lundenburgergasse</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>16.4055172,48.2720116,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HP: Heinrich v. Buol-Gasse</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>16.4237357,48.2627044,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HP: Brünner Straße</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>16.3991113,48.260372,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HP: Floridsdorfer Brücke</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>16.3916443,48.2510562,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HP: Dresdner Strasse</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>16.3746487,48.2429383,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HP: Friedensbrücke</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>16.3644792,48.2275466,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HP: vor Türkenstraße</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>16.3680619,48.2198829,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HP: Universitätsstraße</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>16.3593198,48.2149501,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-503-DB4436-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-DB4436-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-503-DB4436-nodesc-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-DB4436-nodesc-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-62-nodesc-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/62-green.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-62-nodesc-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/62-green.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-62-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-62-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-62-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-009900-5-normal'>
+			<LineStyle>
+				<color>ff009900</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-009900-5-highlight'>
+			<LineStyle>
+				<color>ff009900</color>
+				<width>8.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-009900-5'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-009900-5-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-009900-5-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
