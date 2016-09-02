@@ -1,0 +1,245 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>FSN-Wien: Innerer Gürtel</name>
+		<description><![CDATA[Abfahrt um 21:00 Uhr<br>Streckenlänge rd. 15km<br>]]></description>
+		<Folder>
+			<name>Unbenannte Ebene</name>
+			<Placemark>
+				<name>Heldenplatz</name>
+				<description><![CDATA[Abfahrt um 21:00 Uhr]]></description>
+				<styleUrl>#icon-61</styleUrl>
+				<Point>
+					<coordinates>16.363651,48.206316,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Route</name>
+				<styleUrl>#line-009900-5-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>16.36366,48.2063,0.0 16.361969,48.20522700000001,0.0 16.363707,48.203955,0.0 16.3613,48.20251,0.0 16.3628,48.20171,0.0 16.36449,48.20089,0.0 16.36564,48.20004,0.0 16.36343,48.19883,0.0 16.36119,48.19773,0.0 16.35761,48.197,0.0 16.35648,48.19674,0.0 16.35579,48.19646,0.0 16.35515,48.19614,0.0 16.35472,48.19585,0.0 16.35422,48.19535,0.0 16.35392,48.19473,0.0 16.35406,48.19305,0.0 16.3539,48.1925,0.0 16.35364,48.19198,0.0 16.35313,48.19126,0.0 16.3523,48.19051,0.0 16.35157,48.19013,0.0 16.35101,48.18994,0.0 16.34541,48.18898000000001,0.0 16.34195,48.18877,0.0 16.34042,48.18864,0.0 16.33977,48.18877,0.0 16.33893,48.18913,0.0 16.33855,48.18952,0.0 16.33811,48.19014,0.0 16.33796,48.19052,0.0 16.33796,48.19111,0.0 16.3381,48.19158000000001,0.0 16.33986,48.19464,0.0 16.33998,48.1951,0.0 16.33999,48.19556,0.0 16.33989,48.19603,0.0 16.33781,48.20166,0.0 16.33741,48.205,0.0 16.33736,48.206140000000005,0.0 16.3389,48.20854,0.0 16.33928,48.20967,0.0 16.33968,48.21208,0.0 16.33989,48.21258,0.0 16.3424,48.21722,0.0 16.34351,48.21986,0.0 16.34392,48.2206,0.0 16.34442,48.22113,0.0 16.34491,48.2215,0.0 16.34538,48.22175,0.0 16.34601,48.22203,0.0 16.34828,48.22271,0.0 16.34886,48.22308,0.0 16.34942,48.22364000000001,0.0 16.34967,48.22455000000001,0.0 16.35091,48.23027,0.0 16.35104,48.23049,0.0 16.35463,48.2319,0.0 16.35514,48.2322,0.0 16.35565,48.2327,0.0 16.35613,48.23283,0.0 16.35781,48.23305,0.0 16.35871,48.23323,0.0 16.359170000000002,48.23323,0.0 16.359580000000005,48.23313,0.0 16.35992,48.23289,0.0 16.36055,48.23229,0.0 16.36106,48.23172,0.0 16.362700000000004,48.22872,0.0 16.36359,48.22777,0.0 16.36464,48.22701,0.0 16.36609,48.22586,0.0 16.36655,48.22536,0.0 16.36696,48.22478,0.0 16.36708,48.22408,0.0 16.36732,48.2214,0.0 16.36753,48.22057,0.0 16.36785,48.21987,0.0 16.36821,48.21939,0.0 16.36891,48.218790000000006,0.0 16.37105,48.21754,0.0 16.37195,48.21691,0.0 16.37287,48.21596,0.0 16.37397,48.21428000000001,0.0 16.374290000000002,48.21391,0.0 16.37526,48.21303,0.0 16.37621,48.21242000000001,0.0 16.37695,48.21212,0.0 16.37812,48.21179,0.0 16.37995,48.21148,0.0 16.38251,48.21139,0.0 16.38281,48.21109,0.0 16.3822,48.20889,0.0 16.37502,48.20184,0.0 16.37351,48.20147,0.0 16.364393,48.203604,0.0 16.362087,48.205234,0.0 16.36372,48.20626,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Ring in Gegenrichtung</name>
+				<styleUrl>#line-CC0000-7-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>16.361979,48.205234,0.0 16.363707,48.203953,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>HP: Linke Wienzeile</name>
+				<styleUrl>#icon-62-nodesc</styleUrl>
+				<Point>
+					<coordinates>16.365509,48.200122,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HP: Pilgrambrücke</name>
+				<styleUrl>#icon-62-nodesc</styleUrl>
+				<Point>
+					<coordinates>16.354083,48.193149,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HP: Margaretengürtel</name>
+				<styleUrl>#icon-62-nodesc</styleUrl>
+				<Point>
+					<coordinates>16.342195,48.188786,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HP: Mariahilfer Strasse</name>
+				<styleUrl>#icon-62-nodesc</styleUrl>
+				<Point>
+					<coordinates>16.339983,48.19564,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HP: Lerchenfelder Strasse</name>
+				<styleUrl>#icon-62-nodesc</styleUrl>
+				<Point>
+					<coordinates>16.338792,48.208383,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HP: Sechsschimmelgasse</name>
+				<styleUrl>#icon-62-nodesc</styleUrl>
+				<Point>
+					<coordinates>16.349952,48.225888,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HP: Josef Holaubek Platz</name>
+				<styleUrl>#icon-62-nodesc</styleUrl>
+				<Point>
+					<coordinates>16.358104,48.233108,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HP: Alserbachstrasse</name>
+				<styleUrl>#icon-62-nodesc</styleUrl>
+				<Point>
+					<coordinates>16.364606,48.227041,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HP: Türkenstrasse</name>
+				<styleUrl>#icon-62-nodesc</styleUrl>
+				<Point>
+					<coordinates>16.368181,48.219447,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HP: Aspernbrücke</name>
+				<styleUrl>#icon-62-nodesc</styleUrl>
+				<Point>
+					<coordinates>16.382405,48.211386,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HP: Kärntner Strasse</name>
+				<styleUrl>#icon-62-nodesc</styleUrl>
+				<Point>
+					<coordinates>16.369788,48.202319,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-61-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/61-green-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-61-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/61-green-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-61'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-61-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-61-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-62-nodesc-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/62-green.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-62-nodesc-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/62-green.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-62-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-62-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-62-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-009900-5-nodesc-normal'>
+			<LineStyle>
+				<color>ff009900</color>
+				<width>5</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-009900-5-nodesc-highlight'>
+			<LineStyle>
+				<color>ff009900</color>
+				<width>8.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-009900-5-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-009900-5-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-009900-5-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-CC0000-7-nodesc-normal'>
+			<LineStyle>
+				<color>ff0000CC</color>
+				<width>7</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-CC0000-7-nodesc-highlight'>
+			<LineStyle>
+				<color>ff0000CC</color>
+				<width>11.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-CC0000-7-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-CC0000-7-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-CC0000-7-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
