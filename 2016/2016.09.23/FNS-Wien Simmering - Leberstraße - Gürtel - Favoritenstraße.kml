@@ -1,0 +1,202 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>FNS-Wien: Simmering - Leberstraße - Gürtel - Favoritenstraße</name>
+		<description><![CDATA[Länge ca. 19km]]></description>
+		<Folder>
+			<name>Unbenannte Ebene</name>
+			<Placemark>
+				<name>Start/Ziel: Heldenplatz</name>
+				<description><![CDATA[Abfahrt 21:00 Uhr<br>Länge ca. 19,5km]]></description>
+				<styleUrl>#icon-61</styleUrl>
+				<Point>
+					<coordinates>16.363696000000004,48.206264,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HP: Ringturm</name>
+				<styleUrl>#icon-62-nodesc</styleUrl>
+				<Point>
+					<coordinates>16.370273,48.217324,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HP: Urania</name>
+				<styleUrl>#icon-62-nodesc</styleUrl>
+				<Point>
+					<coordinates>16.382589,48.211376,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HP: Rotundenbrücke</name>
+				<styleUrl>#icon-62-nodesc</styleUrl>
+				<Point>
+					<coordinates>16.396365,48.206042,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HP: Stadionbrücke</name>
+				<styleUrl>#icon-62-nodesc</styleUrl>
+				<Point>
+					<coordinates>16.40998,48.196417,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HP: Alt-Simmering</name>
+				<styleUrl>#icon-62-nodesc</styleUrl>
+				<Point>
+					<coordinates>16.429828,48.185982,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HP: Simmeringer Hauptstraße</name>
+				<styleUrl>#icon-62-nodesc</styleUrl>
+				<Point>
+					<coordinates>16.416707,48.1743,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HP: Geiselbergstraße</name>
+				<styleUrl>#icon-62-nodesc</styleUrl>
+				<Point>
+					<coordinates>16.406708,48.174414,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HP: Landstraßer Hauptstraße</name>
+				<styleUrl>#icon-62-nodesc</styleUrl>
+				<Point>
+					<coordinates>16.399455,48.187749,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HP: Südtiroler Platz</name>
+				<styleUrl>#icon-62-nodesc</styleUrl>
+				<Point>
+					<coordinates>16.374264,48.186375,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HP: Schwarzenbergplatz</name>
+				<styleUrl>#icon-62-nodesc</styleUrl>
+				<Point>
+					<coordinates>16.374907,48.198477,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Route</name>
+				<styleUrl>#line-33CC00-5-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>16.363631,48.206264,0.0 16.361958,48.20527,0.0 16.360306,48.206493,0.0 16.359673,48.207051,0.0 16.359705,48.207287,0.0 16.361507,48.213407,0.0 16.361614,48.213571,0.0 16.361861,48.213693,0.0 16.37008,48.217453,0.0 16.370466,48.217539,0.0 16.370906,48.217532000000006,0.0 16.371249,48.217432,0.0 16.371721,48.21711,0.0 16.372139,48.216774,0.0 16.372815,48.216016,0.0 16.373534,48.215037,0.0 16.373974,48.214279,0.0 16.374167,48.214064,0.0 16.375208,48.213049,0.0 16.375895,48.21262,0.0 16.376613,48.212248,0.0 16.377643,48.211927,0.0 16.378802,48.211634,0.0 16.379371,48.211555000000004,0.0 16.379982,48.211491,0.0 16.381098,48.211426,0.0 16.382729,48.211369,0.0 16.384971,48.211176,0.0 16.385465,48.211419,0.0 16.386259,48.211748,0.0 16.386774,48.212434,0.0 16.387267,48.212649,0.0 16.387868,48.21282,0.0 16.389155,48.213021,0.0 16.390164,48.213035,0.0 16.391151,48.212921,0.0 16.392374,48.212649,0.0 16.392868,48.212434,0.0 16.393297,48.212134,0.0 16.394198,48.21109,0.0 16.395571,48.208931,0.0 16.395915,48.20800200000001,0.0 16.396365,48.205971,0.0 16.396472,48.204841,0.0 16.396794,48.204255,0.0 16.397309,48.20374,0.0 16.397824,48.203282,0.0 16.398468,48.202839,0.0 16.399691,48.20231,0.0 16.400828,48.20206700000001,0.0 16.402588,48.201709,0.0 16.40542,48.20108,0.0 16.406729,48.200379000000005,0.0 16.407523,48.199392,0.0 16.408188,48.198405,0.0 16.409583,48.196718,0.0 16.409841,48.196446,0.0 16.409819,48.196289,0.0 16.408918,48.195745,0.0 16.409798,48.195159,0.0 16.408918,48.194572,0.0 16.410162000000003,48.193542,0.0 16.418166,48.188621,0.0 16.419497,48.187763,0.0 16.42234,48.186433,0.0 16.425,48.185817,0.0 16.426739,48.18546,0.0 16.42823,48.185217,0.0 16.428605,48.185245,0.0 16.428831,48.185331,0.0 16.429013,48.185453,0.0 16.429152,48.18560300000001,0.0 16.429603,48.185932,0.0 16.429882,48.186003,0.0 16.430322,48.186003,0.0 16.430848000000005,48.185825,0.0 16.431094,48.185703,0.0 16.431116,48.185617,0.0 16.431084,48.185531,0.0 16.425987,48.177641,0.0 16.425269,48.17646,0.0 16.424925,48.176346,0.0 16.423445,48.176718,0.0 16.421814,48.174557,0.0 16.421599000000004,48.174457,0.0 16.418166,48.174514,0.0 16.417329,48.174414,0.0 16.416514,48.174257,0.0 16.415677,48.173885,0.0 16.414926000000005,48.173355,0.0 16.410125,48.170118,0.0 16.410002,48.170143,0.0 16.409841,48.17009300000001,0.0 16.407952,48.17211,0.0 16.407609,48.172554,0.0 16.407394,48.172883,0.0 16.406665,48.174529,0.0 16.4066,48.174808,0.0 16.40659,48.175101,0.0 16.408027,48.178099,0.0 16.408092,48.178435,0.0 16.408081,48.178793,0.0 16.407824,48.179236,0.0 16.407459,48.179823,0.0 16.404841,48.18269900000001,0.0 16.400979,48.186633,0.0 16.39997,48.18742000000001,0.0 16.399455,48.187706,0.0 16.398833,48.187935,0.0 16.396194,48.18586,0.0 16.394949,48.186862000000005,0.0 16.393576,48.187534,0.0 16.392245,48.187963,0.0 16.390915,48.188121,0.0 16.388619,48.188321,0.0 16.385379,48.188435,0.0 16.383169,48.188521,0.0 16.381195,48.188407,0.0 16.379178,48.18792,0.0 16.375294,48.18669,0.0 16.37392,48.186304,0.0 16.373641,48.18716200000001,0.0 16.373127,48.188178,0.0 16.371453,48.191168,0.0 16.370766,48.193142,0.0 16.369994,48.194758,0.0 16.36905,48.195688,0.0 16.368792,48.196074,0.0 16.368814,48.196289,0.0 16.368964,48.196374,0.0 16.375251,48.198591,0.0 16.375358,48.199049,0.0 16.375659,48.199321,0.0 16.375637,48.19955000000001,0.0 16.374393,48.201666,0.0 16.373663,48.20148,0.0 16.364243,48.203554,0.0 16.362054,48.20522700000001,0.0 16.363685,48.206243,0.0</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<Style id='icon-61-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/61-green-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-61-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/61-green-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-61'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-61-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-61-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-62-nodesc-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/62-green.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-62-nodesc-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/62-green.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-62-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-62-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-62-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-33CC00-5-nodesc-normal'>
+			<LineStyle>
+				<color>ff00CC33</color>
+				<width>5</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-33CC00-5-nodesc-highlight'>
+			<LineStyle>
+				<color>ff00CC33</color>
+				<width>8.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-33CC00-5-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-33CC00-5-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-33CC00-5-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
